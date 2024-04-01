@@ -1,0 +1,12 @@
+name: R-Assessment
+title: R-Assessment
+username: aqil2370
+account: aqil2370
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11651738
+bundleId: 8450889
+url: https://aqil2370.shinyapps.io/R-Assessment/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
